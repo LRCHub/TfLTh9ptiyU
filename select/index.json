@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "フラれてみたんだよ",
+  "base_artist": "indigo la End",
+  "createdAt": "2025-12-09T04:18:59.624441Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "フラれてみたんだよ",
+      "artist": "indigo la End",
+      "has_synced": false,
+      "path": "select/01_フラれてみたんだよ_indigo_la_End.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "フラれてみたんだよ",
+      "artist": "indigo la End",
+      "has_synced": true,
+      "path": "select/02_フラれてみたんだよ_indigo_la_End.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フラれてみたんだよ",
+      "artist": "indigo la End",
+      "has_synced": false,
+      "path": "select/pl_01_フラれてみたんだよ_indigo_la_End.txt"
+    }
+  ]
+}
